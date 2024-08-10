@@ -1,6 +1,8 @@
 # Roman Numeral Converter
 
+<!-- DESCRIPTION-START -->
 A project that converts intergers ranging from 1 to 3999 to Roman numerals. 
+<!-- DESCRIPTION-END -->
 
 ![project image](https://res.cloudinary.com/dwguf4w1t/image/upload/v1722351386/Portfolio%20Projects/roman-numeral-converter-js_rhbb0q.png)
 
